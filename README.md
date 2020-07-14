@@ -3,7 +3,7 @@ A data Structure that will provide a subset of the services provided by the C++ 
 # Line-List-Class
 A class that represent a linked list of text lines.
 
-![class Diagram](/classD.png)
+![class Diagram](/classd.png)
   
 # Node-Class
 A class that models nodes in the Line List class. It stores a Line object and two pointers to preceeding and succeeding nodes, if any.
