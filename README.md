@@ -3,6 +3,7 @@ A data Structure that will provide a subset of the services provided by the C++ 
 # Line-List-Class
 A class that represent a linked list of text lines.
 
+# CLass Diagram
 ![class Diagram](classd.PNG)
   
 # Node-Class
