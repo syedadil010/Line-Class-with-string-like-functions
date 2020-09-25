@@ -1,4 +1,4 @@
-A data Structure that will provide a subset of the services provided by the C++ standard <string> class and the list<string> class template.
+A Line-List data Structure to store multiple text lines, that will provide a subset of the services provided by the C++ standard *<string*> class and the list *<string*> class template.
 
 # Line-List-Class
 A class that represent a linked list of text lines.
